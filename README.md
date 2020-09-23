@@ -1,3 +1,4 @@
 # farmingclub
 This is the repository for all Farming Club files for easy transfer.
-It is licated at github.com/comcow/farmingclub
+It is located at github.com/comcow/farmingclub
+This is intended for use by Farming Club members.
